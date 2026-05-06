@@ -1,0 +1,10 @@
+{
+  "name": "Mirko",
+  "age": 30,
+  "email": "mirko@zantech.dev",
+  "hobbies": [
+    "coding",
+    "hiking",
+    "reading"
+  ]
+}
